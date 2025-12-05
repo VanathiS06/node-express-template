@@ -97,12 +97,3 @@ When starting a new project:
    git init      # start fresh repo
 
 ---
-
-## Next Steps
-
-- Add validation (Joi)
-- Add rate limiting (express-rate-limit)
-- Add testing (Jest + Supertest)
-- Deploy with Docker or cloud provider
-
----
